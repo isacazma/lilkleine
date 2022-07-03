@@ -8,7 +8,7 @@
     <artifactId>BigShopper</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
-    <name>AlmereGym</name>
+    <name>BigShopper</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
